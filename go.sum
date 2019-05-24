@@ -1,0 +1,6 @@
+github.com/boltdb/bolt v1.3.1 h1:JQmyP4ZBrce+ZQu0dY660FMfatumYDLun9hBCUVIkF4=
+github.com/boltdb/bolt v1.3.1/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
+github.com/callistaenterprise/goblog v0.0.0-20171102205037-c8444945b751 h1:50B2dz11iMoRGWlBDlHUlzq2wgxNjsRlFvL8o8FaGcE=
+github.com/callistaenterprise/goblog v0.0.0-20171102205037-c8444945b751/go.mod h1:p1WBobZ2P97pP++AfDoW1GCS1BRaXfXYianBUYZUYRI=
+github.com/gorilla/mux v1.7.2 h1:zoNxOV7WjqXptQOVngLmcSQgXmgk4NMz1HibBchjl/I=
+github.com/gorilla/mux v1.7.2/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
